@@ -1,0 +1,8 @@
+challonge-api-key: ""
+bot-token: ""
+
+allowed-roles:
+- 1234567890
+
+command-scopes:
+- 1234567890
