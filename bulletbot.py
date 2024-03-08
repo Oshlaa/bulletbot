@@ -33,8 +33,6 @@ def get_yaml(filename: str):
 
 
 
-
-global tourneys
 tourneys = {}
 config_data = get_yaml("config.yml")
 challonge_api_url = "https://api.challonge.com"
